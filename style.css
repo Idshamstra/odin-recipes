@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+.shopping-list {
+    font-weight: bold;
+    color: green;
+}
+
+ol {
+    font-weight: bold;
+    color: green;
+}
+
+.pasta-image{
+    height: auto;
+    width: 180 ;
+}
